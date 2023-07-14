@@ -39,18 +39,3 @@
 
 </div><br>
 
-<div align="center">
-  <a href="https://www.youtube.com/channel/UCI8SrCm1IZ-2pMfkw5YLHMQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/fenetre_sur_la_vie/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rachit-gandhi-4a79001a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:rachitgandhi2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://medium.com/@rachitgandhi27"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-</div>
-
-<br>
-<footer>
-<div align="center">
- 
-  <p>Credits: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>,<a href="https://github.com/rafaballerini">Rafaella Ballerini</a> and <a href="https://github.com/duribeiro">Eduardo Ribeiro</a></p>
-</div>
-</footer>
