@@ -1,18 +1,18 @@
 <div>
   
   <h1 align="center">
-    Hey, Rachit this side! 👋
+    Hey, Rachit, this side! 👋
     <a href="https://www.linkedin.com/in/rachit-gandhi-4a79001a9/">Rachit Gandhi</a>
   </h1>
   
   <h2><img src="bits_panorama.jpg" width="2500px"></h2>
   
   <p align="center">
-   Just a third yearite at BITS, Pilani and am Interested in the field of Robotics, C.V., Deep Learning and Machine Learning
+   Just a final year student at BITS, Pilani and am Interested in the field of Robotics, C.V., Deep Learning and Machine Learning
   </p>
   
   <p align="center">
-   Exploring oppurtunities in related fields.
+   Exploring opportunities in related fields.
   </p>
   
 </div>
@@ -20,7 +20,6 @@
 <div align="center">
   <a href="https://github.com/Rachit-Gandhi">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rachit-Gandhi&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachit-Gandhi&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
