@@ -8,7 +8,7 @@
   <h2><img src="bits_panorama.jpg" width="2500px"></h2>
   <h4>I use Omarchy, Btw!</h4>
   <p align="center">
-   SDE || Q3 Technologies 
+   SDE || Cisco
   </p>
   
   <p align="center">
